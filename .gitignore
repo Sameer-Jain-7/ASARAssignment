@@ -1,0 +1,16 @@
+# Ignore the Pods directory
+Pods/
+
+# Ignore the Podfile.lock
+Podfile.lock
+
+# Ignore Xcode specific files
+DerivedData/
+*.xcworkspace
+
+# Ignore user-specific files
+*.xcuserdata/
+
+# Ignore build artifacts
+build/
+

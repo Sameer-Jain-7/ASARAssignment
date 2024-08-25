@@ -1,0 +1,95 @@
+{
+    "events": [
+        {
+            "question": "West Indies to win the 1st T20I vs South Africa?",
+            "category": "Cricket",
+            "number_of_traders": 3863,
+            "random_image_url": "https://example.com/random-image1.jpg",
+            "information": "West Indies' current winning streak: 3 matches"
+        },
+        {
+            "question": "India to win the ICC Cricket World Cup?",
+            "category": "Cricket",
+            "number_of_traders": 6542,
+            "random_image_url": "https://example.com/random-image2.jpg",
+            "information": "India's ICC World Cup win probability is estimated at 60%"
+        },
+        {
+            "question": "Bitcoin to reach $50,000 by the end of the month?",
+            "category": "Crypto",
+            "number_of_traders": 7321,
+            "random_image_url": "https://example.com/random-image3.jpg",
+            "information": "Bitcoin open price at 01:10 PM was 49899.00 USDT"
+        },
+        {
+            "question": "Ethereum to outperform Bitcoin this year?",
+            "category": "Crypto",
+            "number_of_traders": 4810,
+            "random_image_url": "https://example.com/random-image4.jpg",
+            "information": "Ethereum's current market cap is 60% of Bitcoin's"
+        },
+        {
+            "question": "Manchester United to score first against Liverpool?",
+            "category": "Football",
+            "number_of_traders": 4521,
+            "random_image_url": "https://example.com/random-image5.jpg",
+            "information": "Manchester United scored first in 4 of their last 5 matches"
+        },
+        {
+            "question": "Real Madrid to win the UEFA Champions League?",
+            "category": "Football",
+            "number_of_traders": 5298,
+            "random_image_url": "https://example.com/random-image6.jpg",
+            "information": "Real Madrid's odds of winning the Champions League are 4/1"
+        },
+        {
+            "question": "Apple stock to reach an all-time high this quarter?",
+            "category": "Stocks",
+            "number_of_traders": 3621,
+            "random_image_url": "https://example.com/random-image7.jpg",
+            "information": "Apple's stock price opened at $145.32 this morning"
+        },
+        {
+            "question": "Tesla stock to drop by 5% after the next earnings report?",
+            "category": "Stocks",
+            "number_of_traders": 2983,
+            "random_image_url": "https://example.com/random-image8.jpg",
+            "information": "Tesla's earnings report is scheduled for next Monday"
+        },
+        {
+            "question": "Los Angeles Lakers to win the NBA Championship?",
+            "category": "Basketball",
+            "number_of_traders": 5120,
+            "random_image_url": "https://example.com/random-image9.jpg",
+            "information": "The Lakers are currently the top seed in the Western Conference"
+        },
+        {
+            "question": "Latest developments in the ongoing trade war?",
+            "category": "News",
+            "number_of_traders": 4210,
+            "random_image_url": "https://example.com/random-image10.jpg",
+            "information": "Recent negotiations have stalled, leading to market uncertainty"
+        },
+        {
+            "question": "Will the stock market hit a new record high?",
+            "category": "Stocks",
+            "number_of_traders": 3782,
+            "random_image_url": "https://example.com/random-image11.jpg",
+            "information": "The S&P 500 is just 1% below its all-time high"
+        },
+        {
+            "question": "Global economy to recover by Q3 this year?",
+            "category": "Economy",
+            "number_of_traders": 6098,
+            "random_image_url": "https://example.com/random-image12.jpg",
+            "information": "Economic forecasts indicate a 3% growth in global GDP by Q3"
+        },
+        {
+            "question": "Will this YouTube video reach 1 million views?",
+            "category": "Youtube",
+            "number_of_traders": 4820,
+            "random_image_url": "https://example.com/random-image13.jpg",
+            "information": "The video has gained 800,000 views in the first week"
+        }
+    ]
+}
