@@ -1,16 +1,22 @@
-# Ignore the Pods directory
-Pods/
-
-# Ignore the Podfile.lock
-Podfile.lock
-
-# Ignore Xcode specific files
-DerivedData/
-*.xcworkspace
-
-# Ignore user-specific files
-*.xcuserdata/
-
-# Ignore build artifacts
+# Xcode
+#
 build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
 
+# CocoaPods
+#
+Pods/
+Podfile.lock
