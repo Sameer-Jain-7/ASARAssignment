@@ -19,7 +19,7 @@ ASARAssignment is an iOS application developed as part of an assignment project.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ASARAssignment.git
+git clone https://github.com/Sameer-Jain-7/ASARAssignment.git
 cd ASARAssignment
 ```
 
