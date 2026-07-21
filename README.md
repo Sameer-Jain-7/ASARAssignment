@@ -37,7 +37,7 @@ pod install
 ### 3. Open the Project in Xcode
 Open the `.xcworkspace` file in Xcode:
 ```bash
-open ASARAssignment.xcworkspace
+open AssignmentASAR.xcworkspace
 ```
 
 ### 4. Build and Run the Project
